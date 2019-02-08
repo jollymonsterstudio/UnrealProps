@@ -13,7 +13,11 @@ You can find more details here: http://jollymonsterstudio.com/2019/01/25/unreal-
 
 You can find the associated video tutorial here: https://youtu.be/eTewPCRqqqI
 
+### [Prop 02 - Physics Constraints](https://github.com/jollymonsterstudio/UnrealProps/tree/master/Props02)
 
+You can find more details here: TBD
+
+You can find the associated video tutorial here: TBD
 
 
 Hope this helps, Thanks.
