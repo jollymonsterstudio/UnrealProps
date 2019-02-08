@@ -310,7 +310,7 @@ void AProps02Character::AttackInput(EAttackType AttackType)
 		if (AttackMontage)
 		{
 			// pick the correct montage section based on our attack type
-			int MontageSectionIndex = 0;
+			int MontageSectionIndex;
 			switch (CurrentAttackStrength)
 			{
 			case EAttackStrength::LIGHT:
@@ -323,6 +323,7 @@ void AProps02Character::AttackInput(EAttackType AttackType)
 				MontageSectionIndex = 3;
 				break;
 			default:
+				MontageSectionIndex = 2;
 				break;
 			}
 
